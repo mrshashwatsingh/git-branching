@@ -5,3 +5,5 @@ console.log("commit 3");
 console.log("conflict fixed");
 
 console.log("new feature");
+
+console.log("feature 1");
